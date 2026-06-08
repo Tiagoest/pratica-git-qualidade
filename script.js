@@ -1,4 +1,7 @@
+//jm passou
+
 // Duas listas: uma para quem está aguardando a saída, outra para quem já voltou.
+
 let fila = [];
 let sairam = [];
 
